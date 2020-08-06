@@ -1,0 +1,127 @@
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translate3d(0,-20%, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0,0,0);
+    }
+
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        
+    }
+    to {
+        opacity: 1;
+        
+    }
+
+}
+.LandingPage {
+    background-color: rgba(186, 222, 248, 1);
+    height: 100vh;
+}
+
+.logo {
+    width: 450px;
+    height: auto;
+    margin: auto;
+    padding: 6.5vh;
+    display: block;
+    animation: fadeInDown 1s ease-in both;
+}
+
+.join {
+    display: block;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    font-size: 3.5vw;
+    width: 75%;
+    margin: auto;
+    bottom: 0px;
+    font-family: Montserrat;
+  
+    
+
+}
+
+
+.SignIn {
+    background-color: rgba(33, 44, 129, 1);
+    border-width: 1px;
+    border-color: #000000;
+    border-radius: 55px;
+    border-style: solid;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3.15vw;
+    padding: 2vh;
+    display: inline-block;
+    margin: auto;
+    margin-right: 10%;
+
+ 
+}
+
+.SignUp {
+    background-color: rgba(33, 44, 129, 1);
+    border-width: 1px;
+    border-color: #000000;
+    border-radius: 55px;
+    border-style: solid;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3.15vw;
+    padding: 2vh;
+    display: inline-block;
+    margin: auto;
+  
+}
+
+.SigninRow {
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+   
+ 
+}
+
+.Dont {
+    display: block;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    font-size: 3.5vw;
+    width: 85%;
+    margin: auto;
+    bottom: 0px;
+    font-family: Montserrat;
+   
+  
+}
+
+.Browse {
+    background-color: rgba(33, 44, 129, 1);
+    border-width: 1px;
+    border-color: #000000;
+    border-radius: 55px;
+    border-style: solid;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3.15vw;
+    padding: 2vh;
+    display: inline-block;
+    margin: auto;
+    margin-top: 4vh;
+   
+
+}
+
+#content {
+    animation: fadeIn 1s ease-in both;
+}

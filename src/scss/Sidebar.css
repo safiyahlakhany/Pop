@@ -1,0 +1,78 @@
+.belowNav {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: flex-start;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.MuiDrawer-paper {
+    /* top: 90px !important; */
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    height: 100% !important;
+}
+
+.MuiSvgIcon-root {
+    border: none !important;
+    padding: none! important;
+    font-size: 2.5rem !important;
+}
+
+#listText {
+    font-family: "Montserrat" !important;
+    color: #5799EE;
+    /* font-style: normal; */
+    font-weight: 700 !important;
+}
+.MuiTypography-body1 {
+    font-family: "Montserrat" !important;
+    font-weight: 400 !important;
+    padding-right: 10px;
+}
+.MuiTypography-body1:hover {
+    font-weight: 700 !important;
+}
+
+.bottom {
+    display: flex!important;
+    align-content: flex-end!important;
+    align-self: flex-end!important;
+    position: relative!important;
+}
+
+svg {
+    border: none!important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.MuiListItemIcon-root {
+    min-width: 56px !important;
+}
+.MuiDivider-root {
+    background-color: white !important;
+}
+
+#addTopic {
+    background-color: #BADEF8;
+    margin-top: 40vh;
+    padding: 10px;
+    margin-right: 35px;
+    margin-left: 5px;
+    border-radius: 10px;
+    color: white;
+}
+
+.makeStyles-drawerOpen-9 {
+    width: 250px !important;
+}
+
+.MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(186, 222, 248, 0.5) !important
+}

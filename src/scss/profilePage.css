@@ -1,0 +1,54 @@
+.profileSplit {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    background-color: #BADEF8;
+    border-radius: 2em;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+
+.profileSplit>div {
+    width: 50%;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.profPic {
+    width: 25%;
+    height: auto;
+    border-radius: 100px;
+}
+
+.inputForm {
+    padding: 5px;
+    width: 50%;
+    height: 20px;
+    margin: 4px;
+    display: inline-block;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    text-align: left;
+    vertical-align: bottom;
+    resize: none;
+    /* color: #A2A0A0; */
+    color: #808080;
+    font-family: 'Koho', sans-serif;
+    font-size: 17px;
+/* 
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    color: #808080;
+    font-family: 'Koho', sans-serif;
+    font-size: 17px; */
+
+}
+
+.inline {
+    display: flex;
+    flex-direction: row;
+}

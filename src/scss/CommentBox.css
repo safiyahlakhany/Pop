@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Athiti&family=KoHo:ital,wght@0,400;0,500;1,400&family=Mali&display=swap");
+
+.icon { 
+  
+    min-width: 50px; 
+    text-align: center; 
+} 
+
+.option {
+    font-family: 'KoHo', sans-serif;
+    font-weight: 500;
+    color: #808080;
+    padding-top: 15px;
+    
+} 
+
+.userIcon {
+    width: 50px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+    
+}
+
+
+.logo-div {
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+.content-div {
+    float: right;
+    display: inline-block;
+    width: 80%;
+    text-align: left;
+}
+
+.comment-box {
+    width: 575px;
+    display: inline-block;
+    background-color: white;
+    margin-bottom: 15px;
+    
+   
+    
+}
+
+.wrapper {
+    
+    text-align: center;
+} 

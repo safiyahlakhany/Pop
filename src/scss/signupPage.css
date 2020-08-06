@@ -1,0 +1,103 @@
+h1 {
+    font-family: Montserrat;
+}
+
+.inputField {
+    /* border-radius: 50px; */
+    width: 25vw;
+    border-radius: 6px;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    color: #808080;
+    font-family: 'Koho', sans-serif;
+    font-size: 17px;
+    padding: 5px;
+
+}
+
+.PopFont {
+    color: black;
+    font-family: Montserrat;
+}
+
+.MuiFormLabel-root {
+    color: black!important;
+    font-family: Montserrat!important;
+    font-weight: 700!important;
+}
+
+.signUpLabel {
+    margin-right: 20px !important;
+    margin-left: 20px;
+}
+
+.popButton {
+    background-color:#222C81;
+    border-width: 1px;
+    border-color: #000000;
+    border-radius: 40px;
+    padding: 10px;
+    border-style: solid;
+    display: flex;
+    font-family: Montserrat;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3vw;
+}
+
+.box {
+    size: 2px;
+}
+
+.MuiFormGroup-root {
+    display: block!important;
+}
+
+.errorLabel {
+    color: rgb(170, 14, 14);
+    font-size: 13px;
+}
+
+#blueWrapper{
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #BADEF8;
+    border-radius: 2em;
+    width: 61%;
+    margin: auto;
+    text-align: left;
+    height: 45vh;
+  
+    
+}
+
+#submitButtons {
+}
+#submitButton {
+    display: inline-block !important;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+#inputHeading {
+    display: block;
+    margin: 10px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+#inputFieldsWrapper {
+    margin: 30px;
+}
+
+#upInput {
+    margin-bottom: 5vh;
+    width: 23vw;
+}
+
+#checkFieldsWrapper {
+    margin: 30px;
+    margin-right: 10px;
+}

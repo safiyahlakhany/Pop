@@ -1,0 +1,70 @@
+/* .padding {
+    padding: 20px;
+    margin: 50px;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Athiti&family=KoHo:ital,wght@0,400;0,500;1,400&family=Mali&display=swap");
+#submitVal {
+    background-color: #5799EE;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.replySubmit {
+    font-family: 'Montserrat';
+    color: white; 
+    font-size: 17px;
+    border: none;
+    height: 50px;
+    display: inline-block;
+    text-align:center;
+    padding: 5px 7px;
+    vertical-align: top;
+    
+}
+
+.replySubmit:hover{
+    color: black;
+}
+
+#darkBlueSubmit{
+    background-color: #5799EE;
+}
+
+#lightBlueSubmit{
+    background-color: #BADEF8;
+}
+
+#redSubmit {
+    background-color: #ED7A70;
+    border-radius: 0px 5px 5px 0px;
+}
+
+
+.replyInput {
+    padding: 5px;
+    width: 50%;
+    height: 40px;
+    margin: 0px;
+    display: inline-block;
+    background-color: #EBEBEB;
+    border: none;
+    outline: none;
+    border-radius: 5px 0px 0px 5px;
+    text-align: left;
+    vertical-align: bottom;
+    resize: none;
+    /* color: #A2A0A0; */
+    color: #808080;
+    font-family: 'Koho', sans-serif;
+    font-size: 17px;
+   
+}
+
+#replyForm {
+    vertical-align: bottom;
+    margin: auto;
+    width: 99%;
+    padding-top: 10px;
+
+}

@@ -1,0 +1,29 @@
+.filterBox {
+    height: 300px;
+    position: relative;
+}
+#filterGroup {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    justify-items: center;
+}
+
+svg {
+    justify-self: center;
+    padding:5px !important;
+}
+
+/* make filter box elems closer together*/
+.PrivateSwitchBase-root-13 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+    color: #222C81 !important;
+}
+
+.MuiIconButton-colorSecondary:hover {
+    background-color: rgba(34, 44, 129, 0.07) !important;
+}

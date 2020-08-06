@@ -1,0 +1,35 @@
+.graphContent {
+    display: grid;
+    grid-template-areas: "A B";
+    grid-template-columns: 60% 30%;
+    grid-gap:10%;
+}
+
+#graph {
+    grid-area: "A";
+}
+
+#filters {
+    grid-area: "B";
+    align-self: center;
+    margin:5%;
+}
+
+.expandedPost {
+    height: 100%;
+    overflow: auto;
+}
+
+#postHeading{
+    color: #222C81;
+   
+}
+
+#commentsHeading {
+    color: #222C81;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+
+}
