@@ -6,6 +6,7 @@ import WelcomePage from './welcomePage';
 import AppNav from './AppNav';
 import 'firebase/database';
 
+
 class App extends React.Component<any> {
   render() {
     return (
