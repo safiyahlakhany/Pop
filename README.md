@@ -8,7 +8,7 @@ Note: Display is optimized for Desktop
 
 
 
-## Walkthrough
+# Walkthrough
 
 ### Sign Up
 Pop allows users to create an account or sign in. Pop uses Firebase for authentication; all passwords and emails must be valid. Upon logging in, a user is taking to the main screen which features a section to create a post followed by the user's feed.
