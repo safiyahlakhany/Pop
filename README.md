@@ -8,7 +8,7 @@ Sign Up
 <img src='http://g.recordit.co/mJv4pUHYYn.gif'  width='' alt='Sign Up' />
 
 Post a poll question
-<img src='https://recordit.co/O2Ib0QlloZ'  width='' alt='Sign Up' />
+<img src='https://recordit.co/O2Ib0QlloZ.gif'  width='' alt='Sign Up' />
 
 
 ## Contributors
