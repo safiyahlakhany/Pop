@@ -2,7 +2,7 @@
 
 Pop is a data visualization and polling-based social media platform developed during the Microsoft New Technologist Program
 
-**[Try it out](https://safiyahlakhany.github.io/Pop/)**
+**[Try it out](https://safiyahlakhany.github.io/Pop/)** Note: Display is optimized for Desktop
 
 ## Contributors
 [Safiyah Lakhany](https://github.com/safiyahlakhany)
