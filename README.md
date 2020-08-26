@@ -4,7 +4,11 @@ A data visualization and polling-based social media platform developed during th
 
 ## Contributors
 Safiyah Lakhany
+
 Lauren Ng
+
 Ether Bezugla
+
 Guillermo Vasquez
+
 Seema Kulkarni
