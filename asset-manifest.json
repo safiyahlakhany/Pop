@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Pop/static/css/main.d4c9281c.chunk.css",
+    "main.js": "/Pop/static/js/main.64eb7dd4.chunk.js",
+    "main.js.map": "/Pop/static/js/main.64eb7dd4.chunk.js.map",
+    "runtime-main.js": "/Pop/static/js/runtime-main.660cc675.js",
+    "runtime-main.js.map": "/Pop/static/js/runtime-main.660cc675.js.map",
+    "static/js/2.89c4eca5.chunk.js": "/Pop/static/js/2.89c4eca5.chunk.js",
+    "static/js/2.89c4eca5.chunk.js.map": "/Pop/static/js/2.89c4eca5.chunk.js.map",
+    "index.html": "/Pop/index.html",
+    "precache-manifest.a1c23ec06ef2cafe7b133dcdccabe27e.js": "/Pop/precache-manifest.a1c23ec06ef2cafe7b133dcdccabe27e.js",
+    "service-worker.js": "/Pop/service-worker.js",
+    "static/css/main.d4c9281c.chunk.css.map": "/Pop/static/css/main.d4c9281c.chunk.css.map",
+    "static/js/2.89c4eca5.chunk.js.LICENSE.txt": "/Pop/static/js/2.89c4eca5.chunk.js.LICENSE.txt",
+    "static/media/BubblesBanner.png": "/Pop/static/media/BubblesBanner.e40db723.png",
+    "static/media/Option1ProfPic.png": "/Pop/static/media/Option1ProfPic.2b16b370.png",
+    "static/media/Option2ProfPic.png": "/Pop/static/media/Option2ProfPic.39678302.png",
+    "static/media/Option3ProfPic.png": "/Pop/static/media/Option3ProfPic.81edc7cc.png",
+    "static/media/PopLogo.png": "/Pop/static/media/PopLogo.1cfaac49.png",
+    "static/media/profPic.png": "/Pop/static/media/profPic.b33ca93a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.660cc675.js",
+    "static/js/2.89c4eca5.chunk.js",
+    "static/css/main.d4c9281c.chunk.css",
+    "static/js/main.64eb7dd4.chunk.js"
+  ]
+}
