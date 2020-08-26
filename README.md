@@ -4,6 +4,9 @@ Pop is a data visualization and polling-based social media platform developed du
 
 **[Try it out](https://safiyahlakhany.github.io/Pop/)** Note: Display is optimized for Desktop
 
+
+<img src='http://g.recordit.co/mJv4pUHYYn.gif'  width='' alt='Sign Up' />
+
 ## Contributors
 [Safiyah Lakhany](https://github.com/safiyahlakhany)
 
