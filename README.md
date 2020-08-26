@@ -3,12 +3,12 @@
 A data visualization and polling-based social media platform developed during the Microsoft New Technologist Program
 
 ## Contributors
-Safiyah Lakhany
+[Safiyah Lakhany](https://github.com/safiyahlakhany)
 
-Lauren Ng
+[Lauren Ng](https://github.com/laurenng)
 
-Ether Bezugla
+[Ether Bezugla](https://github.com/kbezugla)
 
-Guillermo Vasquez
+[Guillermo Vasquez](https://github.com/memovasquez)
 
-Seema Kulkarni
+[Seema Kulkarni](https://github.com/seemariva)
