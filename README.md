@@ -17,7 +17,7 @@ Pop allows users to create an account or sign in. Pop uses Firebase for authenti
 
 
 ### Post a poll question
-There are three types of possible posts: open ended, poll, and this or that.All posts and responses are anonymous. Polls and this or that questions have associated charts that display a preview of the answers. As soon as someone votes on a post, the graph is updated in real time. 
+There are three types of posts: open ended, poll, and this or that.All posts and responses are anonymous. Polls and this or that questions have associated charts that display a preview of the answers. As soon as someone votes on a post, the graph is updated in real time. 
 
 <img src='https://recordit.co/O2Ib0QlloZ.gif'  width='' alt='Sign Up' />
 
